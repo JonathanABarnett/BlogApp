@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96057089287",
+    "firebase_url": "https://blog-app-44412.firebaseio.com",
+    "project_id": "blog-app-44412",
+    "storage_bucket": "blog-app-44412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96057089287:android:9aeac4a9fea530677439a2",
+        "android_client_info": {
+          "package_name": "com.alaythiaproductions.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96057089287-o4t35vk3ic8j2fqng97g60vh893hb8j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTUcJPYWMeeWZLesdu65z9kiiOHaD3A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96057089287-o4t35vk3ic8j2fqng97g60vh893hb8j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,8 +1,10 @@
-package com.alaythiaproductions.blogapp;
+package com.alaythiaproductions.blogapp.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.alaythiaproductions.blogapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
